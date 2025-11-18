@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "alphacast",
   "VITE_ORDERLY_BROKER_NAME": "AlphaCast",
   "VITE_BROKER_EOA_ADDRESS": "0x25a6a7fbe039c14b06adb6bda434b960981dbaed",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Coral_Finance",
   "VITE_SEO_SITE_NAME": "Alpha Cast",
   "VITE_SEO_SITE_DESCRIPTION": "Alpha Cast Perp",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/testing-0006/",
+  "VITE_SEO_SITE_URL": "https://alphacast.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Coral_Finance",
