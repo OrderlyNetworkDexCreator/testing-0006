@@ -1,4 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
+  "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "alphacast",
   "VITE_ORDERLY_BROKER_NAME": "NOXCAT",
   "VITE_BROKER_EOA_ADDRESS": "0x25a6a7fbe039c14b06adb6bda434b960981dbaed",
@@ -18,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "NOXCAT Perp",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Rewards,Portfolio,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Portfolio",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
