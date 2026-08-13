@@ -34,7 +34,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@_noxcat_",
   "VITE_SEO_THEME_COLOR": "#23221a",
   "VITE_SEO_KEYWORDS": "dex, crypto, defi, trading, wallet",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,vi,ja,ko,es",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,vi,ja,ko,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"chartBG\":\"#131519\",\"upColor\":\"#008676\",\"downColor\":\"#D92D6B\",\"pnlUpColor\":\"#00B49E\",\"pnlDownColor\":\"#FF447C\",\"pnlZeroColor\":\"#333948\",\"textColor\":\"#FFFFFF\",\"qtyTextColor\":\"#F4F7F9\",\"volumeUpColor\":\"#0C3E3A\",\"volumeDownColor\":\"#5A1E36\",\"closeIconColor\":\"rgba(255, 255, 255, 0.8)\"}",
